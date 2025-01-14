@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+authors:
+  - family-names: Mohsen Fatehifar
+    given-names: Hossein Karshenas
+title: Drug-Drug interaction extraction using a position and similarity fusion-based attention mechanism
+version: 1.0.0
+url: https://www.sciencedirect.com/science/article/pii/S1532046421000368
+doi: https://doi.org/10.1016/j.jbi.2021.103707
+date-released: '2021-01-14'
+preferred-citation:
+  authors:
+    - family-names: Mohsen Fatehifar
+      given-names: Hossein Karshenas
+  title: Drug-Drug interaction extraction using a position and similarity fusion-based attention mechanism
+  doi: https://doi.org/10.1016/j.jbi.2021.103707
+  url: https://www.sciencedirect.com/science/article/pii/S1532046421000368
+  type: article-journal
+  pages: '103707'
+  year: '2021'
+  conference: {}
+  publisher: {}
